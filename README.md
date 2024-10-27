@@ -16,14 +16,20 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://images.playground.com/9f4dabd400264e38aa8b895f46a28ceb.jpeg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badrnej/Badrnej/main/dark-identity-card.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badrnej/Badrnej/main/light-identity-card.svg">
+    <img align="right" alt="Badr Nejaa's Identity Card" src="https://raw.githubusercontent.com/Badrnej/Badrnej/main/dark-identity-card.svg" width="400">
+  </picture>
 </div>
 
 <h3 align="left">About Me:</h3>
 
 - 🔭 I'm currently working on **GSL**
+- 🌱 I'm passionate about building scalable web applications
 - 👨‍💻 All of my projects are available at [badrnej.tech](https://badrnej.tech)
 - 📫 How to reach me: **nejaa.badr@gmail.com**
+- 💡 Fun fact: I love solving algorithmic problems on CodeForces!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,12 +42,29 @@
   <a href="https://discord.gg/banejaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="banejaa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
+
+**Frontend Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,css,docker,figma,git,hadoop,html,illustrator,js,laravel,linux,mariadb,mongodb,mysql,nestjs,nginx,nodejs,photoshop,php,python,react,ruby,sass,sqlite,tailwind,ts,vue,vuetify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vuetify,sass,tailwind,bootstrap&perline=10" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+**Backend Development:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,nestjs,laravel,python,ruby&perline=10" />
+</p>
+
+**Database & DevOps:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb,sqlite,docker,nginx,linux,hadoop,git&perline=10" />
+</p>
+
+**Design Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&perline=10" />
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badrnej&show_icons=true&locale=en&layout=compact&theme=radical" alt="badrnej" />
 </p>
