@@ -15,21 +15,40 @@
   </a>
 </p>
 
+<!-- Anime Style Dev Card -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badrnej/Badrnej/main/dark-identity-card.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badrnej/Badrnej/main/light-identity-card.svg">
-    <img align="right" alt="Badr Nejaa's Identity Card" src="https://raw.githubusercontent.com/Badrnej/Badrnej/main/dark-identity-card.svg" width="400">
-  </picture>
+  <img width="400" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center" style="background: linear-gradient(45deg, #1a1b26, #24283b); border-radius: 10px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); border: 1px solid rgba(255, 255, 255, 0.1);">
+  <table style="background: transparent; border: none;">
+    <tr>
+      <td style="padding: 20px;">
+        <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" height="150" style="border-radius: 10px; border: 3px solid #58a6ff;"/>
+      </td>
+      <td style="padding: 20px; color: #c9d1d9;">
+        <h3 style="color: #58a6ff; margin: 0;">Developer ID Card</h3>
+        <p><strong>Name:</strong> Badr Nejaa</p>
+        <p><strong>Level:</strong> Full Stack Developer</p>
+        <p><strong>Class:</strong> Software Engineer</p>
+        <p><strong>Specialization:</strong> Web Development</p>
+        <div style="background: rgba(88, 166, 255, 0.1); height: 20px; border-radius: 10px; margin: 10px 0;">
+          <div style="background: linear-gradient(90deg, #58a6ff, #bc6fff); width: 75%; height: 100%; border-radius: 10px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://images.playground.com/9f4dabd400264e38aa8b895f46a28ceb.jpeg">
 </div>
 
 <h3 align="left">About Me:</h3>
 
 - 🔭 I'm currently working on **GSL**
-- 🌱 I'm passionate about building scalable web applications
 - 👨‍💻 All of my projects are available at [badrnej.tech](https://badrnej.tech)
 - 📫 How to reach me: **nejaa.badr@gmail.com**
-- 💡 Fun fact: I love solving algorithmic problems on CodeForces!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,29 +61,12 @@
   <a href="https://discord.gg/banejaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="banejaa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
-
-**Frontend Development:**
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vuetify,sass,tailwind,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,css,docker,figma,git,hadoop,html,illustrator,js,laravel,linux,mariadb,mongodb,mysql,nestjs,nginx,nodejs,photoshop,php,python,react,ruby,sass,sqlite,tailwind,ts,vue,vuetify&perline=10" />
 </p>
 
-**Backend Development:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,nestjs,laravel,python,ruby&perline=10" />
-</p>
-
-**Database & DevOps:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb,sqlite,docker,nginx,linux,hadoop,git&perline=10" />
-</p>
-
-**Design Tools:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&perline=10" />
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badrnej&show_icons=true&locale=en&layout=compact&theme=radical" alt="badrnej" />
 </p>
