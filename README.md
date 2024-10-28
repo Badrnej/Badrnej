@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/twitter/follow/badrnejaa?logo=twitter&style=for-the-badge" alt="badrnejaa" />
   </a>
 </p>
+<!-- Add the IdentityCard image here -->
+<div align="center">
+  <img src="https://i.ibb.co/0yFwKss/Identity-Card.png" alt="Badr Nejaa Identity Card" width="100%">
+</div>
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://images.playground.com/9f4dabd400264e38aa8b895f46a28ceb.jpeg">
