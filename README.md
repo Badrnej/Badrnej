@@ -15,31 +15,6 @@
   </a>
 </p>
 
-<!-- Anime Style Dev Card -->
-<div align="center">
-  <img width="400" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center" style="background: linear-gradient(45deg, #1a1b26, #24283b); border-radius: 10px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); border: 1px solid rgba(255, 255, 255, 0.1);">
-  <table style="background: transparent; border: none;">
-    <tr>
-      <td style="padding: 20px;">
-        <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" height="150" style="border-radius: 10px; border: 3px solid #58a6ff;"/>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9;">
-        <h3 style="color: #58a6ff; margin: 0;">Developer ID Card</h3>
-        <p><strong>Name:</strong> Badr Nejaa</p>
-        <p><strong>Level:</strong> Full Stack Developer</p>
-        <p><strong>Class:</strong> Software Engineer</p>
-        <p><strong>Specialization:</strong> Web Development</p>
-        <div style="background: rgba(88, 166, 255, 0.1); height: 20px; border-radius: 10px; margin: 10px 0;">
-          <div style="background: linear-gradient(90deg, #58a6ff, #bc6fff); width: 75%; height: 100%; border-radius: 10px;"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://images.playground.com/9f4dabd400264e38aa8b895f46a28ceb.jpeg">
 </div>
