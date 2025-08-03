@@ -21,7 +21,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I'm currently working on **GSL**
+- 🔭 I'm currently working on **EliteProDev**
 - 👨‍💻 All of my projects are available at [badrnej.tech](https://badrnej.tech)
 - 📫 How to reach me: **nejaa.badr@gmail.com**
 
