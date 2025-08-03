@@ -22,7 +22,7 @@
 <h3 align="left">About Me:</h3>
 
 - 🔭 I'm currently working on **EliteProDev**
-- 👨‍💻 All of my projects are available at [nejaabadr]([https://nejaabadr.eliteprodev.com/])
+- 👨‍💻 All of my projects are available at [[nejaabadr.eliteprodev.com]]([https://nejaabadr.eliteprodev.com/])
 - 📫 How to reach me: **nejaa.badr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
