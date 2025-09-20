@@ -16,7 +16,7 @@ export default function IdentityCard() {
     background: "https://images.playground.com/9f4dabd400264e38aa8b895f46a28ceb.jpeg",
     simplonLogo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Capture%20d%E2%80%99e%CC%81cran%202024-10-27%20a%CC%80%2022.14.31-aSp5shltAQLGBd8Zd5o5Y6kOZDV7fb.png",
     alxLogo: "https://avatars.githubusercontent.com/u/108390987?s=280&v=4",
-    avatar: "https://i.ibb.co/qyNb1XR/Capture-d-cran-2024-10-27-22-45-54.png",
+    avatar: "https://i.ibb.co/fd1R3f7C/nejaa-badr.jpg",
   }
 
   return (
