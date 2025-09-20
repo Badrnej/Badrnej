@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/0yFwKss/Identity-Card.png">
+  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Myp7wCJj/Identity-Card.png">
 </div>
 
 <h3 align="left">About Me:</h3>
