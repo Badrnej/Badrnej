@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://wiki.discord-france.fr/assets/img/pics/utilisateur/dev/mode_dev.png" alt="MasterHead" width="100%">
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Badr+Nejaa;Welcome+to+my+profile!&center=true&size=30">
